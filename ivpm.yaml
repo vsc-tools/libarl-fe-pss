@@ -30,6 +30,8 @@ package:
       url: https://github.com/google/googletest/archive/release-1.10.0.tar.gz
     - name: pyastbuilder
       url: https://github.com/mballance/pyastbuilder.git
+    - name: gtest
+      url: https://github.com/google/googletest/archive/refs/tags/release-1.11.0.tar.gz
     - name: toposort
       src: pypi
     - name: ciostream
